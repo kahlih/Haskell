@@ -3,3 +3,5 @@ the validity of an evaluation.
 
 Perform testing and case evaluations to see if evaluations were
 successful.
+
+Compile with : ghc FirstClassFunctionsTest.hs -o main
