@@ -1,0 +1,5 @@
+Define a Checked Value type to be of type "Error" or "Good" to test
+the validity of an evaluation.
+
+Perform testing and case evaluations to see if evaluations were
+successful.
